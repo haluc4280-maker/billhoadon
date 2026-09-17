@@ -27,7 +27,7 @@ menu = {
         "Bít tết Bò Mỹ": 250000,
         "Sườn nướng BBQ": 180000,
         "Cánh gà chiên mắm": 75000,
-        "Lẩu cá diêu hồng": 200000,
+        "Lẩu cá diêu hồng": 199000,
         "Lẩu Thái hải sản": 300000,
         "Lẩu cá kèo": 140000
     },
